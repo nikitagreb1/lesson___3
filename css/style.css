@@ -1,0 +1,97 @@
+* {
+   color: blue;
+}
+
+h1 {
+   color: maroon;
+}
+
+ul.list a {
+   color: green;
+}
+
+.list-item .sublist-item > .link.pink {
+   color: pink;
+}
+
+.foreword h2 {
+   color: thistle;
+}
+
+.foreword mark {
+   color: red;
+}
+
+.foreword p,
+.foreword b {
+   color: lightgreen;
+}
+
+.burg .title.yellow {
+   color: goldenrod;
+}
+
+.burg p {
+   color: purple;
+}
+
+.burg p > b {
+   color: burlywood;
+}
+
+.burg > .formation li {
+   color: sienna;
+}
+
+.formation b {
+   color: teal;
+}
+
+.formation .title {
+   color: olivedrab;
+}
+
+.province .yellow {
+   color: sandybrown;
+}
+
+.province .yellow > .violet {
+   color: violet;
+}
+
+.province p,
+.province b {
+   color: wheat;
+}
+
+.trade h2 {
+   color: violet;
+}
+
+.trade p {
+   color: peru;
+}
+
+.trade b {
+   color: black;
+}
+
+.architecture h2 {
+   color: orange;
+}
+
+.architecture p {
+   color: tomato;
+}
+
+.architecture p > i {
+   color: teal;
+}
+
+.center h2 {
+   color: plum;
+}
+
+.center p {
+   color: navy;
+}
